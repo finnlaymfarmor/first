@@ -1,0 +1,10 @@
+[package]
+name = "first"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.23"
+color-eyre = "0.6.3"
+serde = "1.0.216"
+thiserror = "2.0.8"
